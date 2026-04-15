@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/health",
+      "destination": "/api/health"
+    },
+    {
+      "source": "/convert",
+      "destination": "/api/convert"
+    },
+    {
+      "source": "/convert-base64",
+      "destination": "/api/convert-base64"
+    }
+  ]
+}
